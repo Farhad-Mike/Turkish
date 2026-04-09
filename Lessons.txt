@@ -1,0 +1,197 @@
+Çoğul eki:  // Множественное число, суффикс
+  a, ı, o, u - lar
+  e, i, ö, ü - ler
+
+Example:
+  kitap - kitaplar
+  defter - defterler
+  çanta - çantalar
+  kalem - kalemler
+
+İstisna:
+  saat - saatler
+  seyahat - seyahatler
+  hayal - heyaller
+
+____________________________________________________________
+
+
+Isaret Zamirler:  // указательные местоимения
+  Bu - yakın
+  Şu - uzak
+  O - çok uzak
+  Bunlar - yakın
+  Şunlar - uzak
+  Onlar - çok uzak
+
+Example:
+  Bu ne? 
+  Bu kalem
+  Bu kalem değil
+  Şu ne?
+  Şu defter
+  Şu defter değil
+
+Kişi Zamirleri:
+  Ben => um => muyum
+  Sen => un => musun
+  O => '' => mu
+  Biz => uz => muyuz
+  Siz => sunuz => musunuz
+  Onlar => '' => mı
+
+Example:
+  Ayşe çalışkandır - O çalışkandır
+  Ayşe, Fatma, ve Ali çalışkandır - Onlar çalışkandır
+
+____________________________________________________________
+
+
+Zaman ve Zaman eki:  // Время и его суффикс
+  Geçmiş zaman
+  Şimdiki zaman:
+    - Fiilin içinde a,ı => ıyor     // Ben anlatıyorum
+    - Fiilin içinde e,i => iyor     // O yiyor
+    - Fiilin içinde o,u => uyor     // O koşuyor
+    - Fiilin içinde ö,ü => üyor     // O görüyor
+    - Fiilin sonunda ı,i,u,ü => yor // okuyor,uyuyor
+    - Fiilin sonunda a => ı,u       // bekliyor
+    - Fiilin sonunda e => i,ü       // özlüyor
+    Example:
+      Ben geliyorum / Ben gidiyorum / Ben gitmiyorum / Ben gidiyor muyum? / Ben gitmiyor muyum?
+      Sen geliyorsun / Sen gidiyorsun / Sen sevmiyorsun / Sen seviyor musun? / Sen sevmiyor musun?
+      O geliyor / O gidiyor / O gelmiyor / O geliyor mu? / O gelmiyor mu?
+      Biz geliyoruz / Biz gidiyoruz / Biz çalışmıyoruz / Biz çalışıyor muyuz? / Biz calışmıyor muyuz?
+      Siz geliyorsunuz / Siz gidiyorsunuz / Siz sevmiyorsunuz / Siz seviyor musunuz? / Siz sevmiyor musunuz?
+      Onlar geliyorlar / Onlar gidiyorlar / Onlar gelmiyorlar / Onlar geliyorlar mı? / Onlar gelmiyorlar mı?
+  Gelecek zaman
+
+____________________________________________________________
+
+
+Haftanın Günler:
+  Hafta içi:
+    Pazartesi   // Понедельник
+    Salı        // Вторник
+    Çarşamba    // Среда
+    Perşembe    // Четверг
+    Cuma        // Пятницы
+  Hafta sonu:
+    Cumartesi   // Суббота
+    Pazar       // Воскресенье
+
+Öncəki gün            // Позавчера
+Dün                   // Вчера
+Bugün                 // Сегодня
+Yarın                 // Завтра
+Yarından sonraki gün  // Послезавтра
+
+Mevsimler:
+  İlkbahar  // Весна
+  Yaz       // Лето
+  Sonbahar  // Осень
+  Kış       // Зима
+
+Aylar:
+  Ocak      // Январь
+  Şubat     // Февраль
+  Mart      // Март
+  Nisan     // Апрель
+  Mayıs     // Май
+  Hazıran   // Июнь
+  Temmuz    // Июль
+  Ağustos   // Август
+  Eylül     // Сентябрь
+  Ekim      // Октябрь
+  Kasım     // Ноябрь
+  Aralık    // Декабрь
+
+____________________________________________________________
+
+
+Ailemiz:
+  Anneanne      // Бабушка со стороны матери
+  Dede          // Дедушкав
+  Anne          // Мама
+  Babaanne      // Бабушка со стороны отца
+  Baba          // Отец
+  Teyze         // Annenin kız kardeşi
+  Dayı          // Annenin erkek kardeşi
+  Hala          // Babanın kız kardeşi
+  Amca          // Babanın erkek kardeşi
+  Çocuk         // Ребенок
+  Kız           // Дочка
+  Erkek         // Сын 
+  Kız kardeş    // Сестра
+  Erkek kardeş  // Брат
+  Yeğen         // Двоюродная(ый) сестра/брат
+  Kuzen         // Двоюродный брат
+
+
+İyelik ekleri:  // Притяжательные суффиксы
+  Ben   => -im  => Benim babam
+  Sen   => -in  => Senin annen
+  O     => -nun => Onun kardeşı
+  Biz   => -im  => Bizim ailemiz
+  Siz   => -in  => Sizin akrabalarınız
+  Onlar => -ın  => Onların dayıları
+
+____________________________________________________________
+
+
+Hayırlı işler // Удачи в работе
+Kolay gelsin  // Удачи
+Xoş bulduk    // Рад встрече
+
+Paralar:
+  Madeni (Bozuk) Paralar:   // Монеты
+    1 TL
+    50 kuruş
+    25 kuruş
+    10 kuruş
+    5  kuruş
+  Kağıt Paralar:
+    200 TL
+    100 TL
+    50  TL
+    20  TL 
+    10  TL
+    5   TL
+
+1 kilo domates
+1 litre su
+1 tepsi baklava
+1 şişe su
+
+Hangi balıklar var?
+Hamsi taze mi?
+Kilosu kaç lira?
+Yeşillik verin lütfenş
+Borcum ne kadar?
+100 lira bozabilir misiniz?
+Evet, sorun değil
+
+
+Bulunma hal eki, Nerede? ve Kimde?: // Местоименное окончание падежа
+  de, da  // Evde, kütüphanede
+  te, ta  // Ferhatte, markette
+
+____________________________________________________________
+
+
+Binmek - İnmek
+İtmek - Çekmek
+Gülmek - Ağlamak
+Almak - Vermek
+Başlamak - Bitirmek
+Oturmak - Kalkmak
+Açmaq - Kapatmak
+Küsmek - Barışmak
+Azalmak - Çoğalmak
+Sevinmek - Üzülmek
+Kazanmak - Kaybetmek
+
+Örnek cümlemize bakalım // Давайте рассмотрим наш пример предложения.
+Sizi tam olarak anlayamadım. Lütfen tekrar edebilir misiniz?
+Pardon
+Affedersiniz

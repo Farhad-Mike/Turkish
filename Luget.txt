@@ -1,107 +1,30 @@
-Çoğul eki:  // Множественное число, суффикс
-  a, ı, o, u - lar
-  e, i, ö, ü - ler
-
-Example:
-  kitap - kitaplar
-  defter - defterler
-  çanta - çantalar
-  kalem - kalemler
-
-İstisna:
-  saat - saatler
-  seyahat - seyahatler
-  hayal - heyaller
-
-____________________________________________________________
+abla - старшая сестра, обращение к старшей сестре
+ağabey - старший брат, обращение к старшему брату
+aile - семья
+anne - мама, обращение к матери
+araba - машина
+arkadaş - друг
+baba - отец, обращение к отцу
+cetvel - линейка
+çanta - сумка
+çiçek - цветок
+defter - тетрадь
+ders - урок, занятие
+dolap - шкаф
 
 
-Isaret Zamirler:  // указательные местоимения
-  Bu - yakın
-  Şu - uzak
-  O - çok uzak
-  Bunlar - yakın
-  Şunlar - uzak
-  Onlar - çok uzak
-
-Example:
-  Bu ne? 
-  Bu kalem
-  Bu kalem değil
-  Şu ne?
-  Şu defter
-  Şu defter değil
-
-Kişi Zamirleri:
-  Ben
-  Sen 
-  O 
-  Biz 
-  Siz 
-  Onlar
-
-Example:
-  Ayşe çalışkandır - O çalışkandır
-  Ayçe, Fatma, ve Ali çalışkandır - Onlar çalışkandır
-
-____________________________________________________________
-
-
-Zaman ve Zaman eki:  // Время и его суффикс
-  Geçmiş zaman
-  Şimdiki zaman:
-    - Fiilin içinde a,ı => ıyor     // Ben anlatıyorum
-    - Fiilin içinde e,i => iyor     // O yiyor
-    - Fiilin içinde o,u => uyor     // O koşuyor
-    - Fiilin içinde ö,ü => üyor     // O görüyor
-    - Fiilin sonunda ı,i,u,ü => yor // okuyor,uyuyor
-    - Fiilin sonunda a => ı,u       // bekliyor
-    - Fiilin sonunda e => i,ü       // özlüyor
-    Example:
-      Ben geliyorum / Ben gidiyorum / Ben gitmiyorum / Ben gidiyor muyum? / Ben gitmiyor muyum?
-      Sen geliyorsun / Sen gidiyorsun / Sen sevmiyorsun / Sen seviyor musun? / Sen sevmiyor musun?
-      O geliyor / O gidiyor / O gelmiyor / O geliyor mu? / O gelmiyor mu?
-      Biz geliyoruz / Biz gidiyoruz / Biz çalışmıyoruz / Biz çalışıyor muyuz? / Biz calışmıyor muyuz?
-      Siz geliyorsunuz / Siz gidiyorsunuz / Siz sevmiyorsunuz / Siz seviyor musunuz? / Siz sevmiyor musunuz?
-      Onlar geliyorlar / Onlar gidiyorlar / Onlar gelmiyorlar / Onlar geliyorlar mı? / Onlar gelmiyorlar mı?
-  Gelecek zaman
-
-____________________________________________________________
-
-
-Haftanın Günler:
-  Hafta içi:
-    Pazartesi   // Понедельник
-    Salı        // Вторник
-    Çarşamba    // Среда
-    Perşembe    // Четверг
-    Cuma        // Пятницы
-  Hafta sonu:
-    Cumartesi   // Суббота
-    Pazar       // Воскресенье
-
-Öncəki gün            // Позавчера
-Dün                   // Вчера
-Bugün                 // Сегодня
-Yarın                 // Завтра
-Yarından sonraki gün  // Послезавтра
-
-Mevsimler:
-  İlkbahar  // Весна
-  Yaz       // Лето
-  Sonbahar  // Осень
-  Kış       // Зима
-
-Aylar:
-  Ocak      // Январь
-  Şubat     // Февраль
-  Mart      // Март
-  Nisan     // Апрель
-  Mayıs     // Май
-  Hazıran   // Июнь
-  Temmuz    // Июль
-  Ağustos   // Август
-  Eylül     // Сентябрь
-  Ekim      // Октябрь
-  Kasım     // Ноябрь
-  Aralık    // Декабрь
+ev - дом
+insan - человек
+kalem - ручка, карандаш
+kapı - дверь
+kedi - кот, кошка
+kitap - книга
+köpek - собака
+masa - стол
+oğul - сын
+öğrenci - ученик, студент
+öğretmen - учитель
+pencere - окно
+sıra - парта
+sokak - улица
+şehir - город
