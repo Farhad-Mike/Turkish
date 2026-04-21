@@ -47,3 +47,35 @@ televizyon - телевизор
 vurgu - ударение
 yıldız - звезда
 yoğurt - йогурт 
+
+aşçı - повар
+avukat - адвокат
+dişçi - зубной врач
+doktor - врач
+evli - женат, замужем, женаты
+hasta - болен; больной, пациент
+hemşire - медсестра
+işadamı - бизнесмен
+işçi - рабочий
+memur - служащий
+muhasebeci - бухгалтер
+mühendis - инженер
+pilot - лётчик
+postacı - почтальон
+sekreter - секретарь
+tamirci - мастер по ремонту чего-л.
+pazartesi - понедельник
+salı - вторник
+çarşamba - среда
+perşembe - четверг
+cuma - пятница
+cumartesi - суббота
+pazar - воскресенье
+Türkçe - турецкий язык
+İngilizce - английский язык
+müzik - музыка
+fizik - физика
+kimya - химия
+matematik - математика
+beden eğitimi - физкультура
+resim - рисование; картина 
